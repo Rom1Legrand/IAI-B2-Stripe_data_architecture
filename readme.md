@@ -31,7 +31,7 @@ The architecture revolves around three key components:
 3. **NoSQL:** MongoDB for semi-structured data (ML features, error logs, etc.).
 
 ### 🌟 Architecture Diagram
-*[View Architecture Diagram (PDF)](docs/stripe_architecture.pdf)*
+*[View Architecture Diagram (PDF)](STRIPE_ARCHITECTURE.pdf)*
 
 ---
 
