@@ -20,7 +20,7 @@ Stripe processes millions of transactions daily, requiring a scalable infrastruc
 - **OLAP (Online Analytical Processing):** Complex data analysis and reporting.
 - **NoSQL:** Management of semi-structured and unstructured data for use cases like fraud detection and customer personalization.
 
-This project aims to design an integrated and scalable architecture to address these needs using **PostgreSQL**, **Snowflake**, and **MongoDB** on **AWS**.
+This project aims to design an integrated and scalable architecture to address these needs using **PostgreSQL**, **Snowflake**, and **MongoDB**
 
 ---
 
@@ -128,4 +128,3 @@ The architecture revolves around three key components:
 
 - Diagrams (achitecture, OLTP, OLAP, NoSQL)
 - Notebook: Database creation and query examples.
-- Technical documentation
